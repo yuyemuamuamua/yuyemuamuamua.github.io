@@ -26,11 +26,9 @@
 <meta property="article:author" content="YuYe">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:image" content="http://static.runoob.com/images/runoob-logo.png">
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/combine/gh/nexmoe/nexmoe.github.io@latest/css/style.css,npm/highlight.js@9.15.8/styles/atom-one-dark.css,gh/nexmoe/nexmoe.github.io@latest/lib/mdui_043tiny/css/mdui.css,gh/nexmoe/nexmoe.github.io@latest/lib/iconfont/iconfont.css" crossorigin>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/combine/npm/highlight.js@9.15.8/styles/atom-one-dark.css,gh/nexmoe/nexmoe.github.io@latest/lib/mdui_043tiny/css/mdui.css,gh/nexmoe/nexmoe.github.io@latest/lib/iconfont/iconfont.css,gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css?v=233" crossorigin>
   
-  <!--<link rel="stylesheet" href="/css/style.css?v=1603724750149">-->
-
-  
+  <link rel="stylesheet" href="/css/style.css?v=1603728391523">
 <meta name="generator" content="Hexo 5.2.0"></head>
 
 <body class="mdui-drawer-body-left">
@@ -116,7 +114,7 @@
     <div class="nexmoe-copyright">
         &copy; 2020 YuYe
         Powered by <a href="http://hexo.io/" target="_blank">Hexo</a>
-        & <a href="https://nexmoe.com/hexo-theme-nexmoe.html" target="_blank">Nexmoe</a>
+        & <a href="https://github.com/theme-nexmoe/hexo-theme-nexmoe" target="_blank">Nexmoe</a>
     </div>
 </div><!-- .nexmoe-drawer -->
   </div>
@@ -308,9 +306,9 @@
 <h2 id="图片"><a href="#图片" class="headerlink" title="图片"></a>图片</h2><ol>
 <li><p>格式</p>
 <p>   ![alt 属性文本] (图片地址) </p>
-<p>   <img data-sizes="auto" data-src="http://static.runoob.com/images/runoob-logo.png" alt="RUNOOB 图标" class="lazyload"></p>
+<p>   <img data-fancybox="gallery" data-sizes="auto" data-src="http://static.runoob.com/images/runoob-logo.png" alt="RUNOOB 图标" class="lazyload"></p>
 <p>   ![alt 属性文本] (图片地址 “可选标题”)</p>
-<p>   <img data-sizes="auto" data-src="http://static.runoob.com/images/runoob-logo.png" alt="RUNOOB 图标" class="lazyload"></p>
+<p>   <img data-fancybox="gallery" data-sizes="auto" data-src="http://static.runoob.com/images/runoob-logo.png" alt="RUNOOB 图标" class="lazyload"></p>
 </li>
 <li><p>大小</p>
 <p>   由于markdown 不能够调整图片大小，所以我们使用&lt; img &gt; 标签 </p>
@@ -394,16 +392,8 @@
 
   </article>
 
-  <div class="nexmoe-post-meta nexmoe-rainbow">
+  
     
-        <a class="nexmoefont icon-appstore-fill -link" href="/categories/%E5%AD%A6%E4%B9%A0/">学习</a>
-    
-    
-</div>
-
-  <div class="nexmoe-post-footer">
-    
-      
   <div class="nexmoe-post-copyright">
     <strong>本文作者：</strong>YuYe<br>
     <strong>本文链接：</strong><a href="http://yuyemuamuamua.github.io/MarkDownLearn.html" title="http:&#x2F;&#x2F;yuyemuamuamua.github.io&#x2F;MarkDownLearn.html" target="_blank" rel="noopener">http:&#x2F;&#x2F;yuyemuamuamua.github.io&#x2F;MarkDownLearn.html</a><br>
@@ -413,7 +403,16 @@
   </div>
 
 
+  
+  
+  <div class="nexmoe-post-meta nexmoe-rainbow">
     
+        <a class="nexmoefont icon-appstore-fill -link" href="/categories/%E5%AD%A6%E4%B9%A0/">学习</a>
+    
+    
+</div>
+
+  <div class="nexmoe-post-footer">
     <section class="nexmoe-comment">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/gitalk@1.5.0/dist/gitalk.min.css">
 <div id="gitalk"></div>
@@ -434,18 +433,17 @@
 </div>
     </div>
   </div>
-  <script src="https://cdn.jsdelivr.net/combine/npm/lazysizes@5.1.0/lazysizes.min.js,gh/highlightjs/cdn-release@9.15.8/build/highlight.min.js,npm/mdui@0.4.3/dist/js/mdui.min.js,gh/nexmoe/nexmoe.github.io@latest/js/app.js"></script>
-<script>hljs.initHighlightingOnLoad();</script>
-<!--<script src="/js/app.js?v=1603724750149"></script>-->
-
-
-    <script src="https://cdn.jsdelivr.net/gh/xtaodada/xtaodada.github.io@0.0.2/copy.js"></script>
-
-
- 
-<script> 
-!function(e,t,a){function n(){c(".heart{width: 10px;height: 10px;position: fixed;background: #f00;transform: rotate(45deg);-webkit-transform: rotate(45deg);-moz-transform: rotate(45deg);}.heart:after,.heart:before{content: '';width: inherit;height: inherit;background: inherit;border-radius: 50%;-webkit-border-radius: 50%;-moz-border-radius: 50%;position: fixed;}.heart:after{top: -5px;}.heart:before{left: -5px;}"),o(),r()}function r(){for(var e=0;e<d.length;e++)d[e].alpha<=0?(t.body.removeChild(d[e].el),d.splice(e,1)):(d[e].y--,d[e].scale+=.004,d[e].alpha-=.013,d[e].el.style.cssText="left:"+d[e].x+"px;top:"+d[e].y+"px;opacity:"+d[e].alpha+";transform:scale("+d[e].scale+","+d[e].scale+") rotate(45deg);background:"+d[e].color+";z-index:99999");requestAnimationFrame(r)}function o(){var t="function"==typeof e.onclick&&e.onclick;e.onclick=function(e){t&&t(),i(e)}}function i(e){var a=t.createElement("div");a.className="heart",d.push({el:a,x:e.clientX-5,y:e.clientY-5,scale:1,alpha:1,color:s()}),t.body.appendChild(a)}function c(e){var a=t.createElement("style");a.type="text/css";try{a.appendChild(t.createTextNode(e))}catch(t){a.styleSheet.cssText=e}t.getElementsByTagName("head")[0].appendChild(a)}function s(){return"rgb("+~~(255*Math.random())+","+~~(255*Math.random())+","+~~(255*Math.random())+")"}var d=[];e.requestAnimationFrame=function(){return e.requestAnimationFrame||e.webkitRequestAnimationFrame||e.mozRequestAnimationFrame||e.oRequestAnimationFrame||e.msRequestAnimationFrame||function(e){setTimeout(e,1e3/60)}}(),n()}(window,document);
+  <script src="https://cdn.jsdelivr.net/combine/npm/lazysizes@5.1.0/lazysizes.min.js,gh/highlightjs/cdn-release@9.15.8/build/highlight.min.js,npm/mdui@0.4.3/dist/js/mdui.min.js?v=1"></script>
+<script>
+	hljs.initHighlightingOnLoad();
 </script>
+
+<script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.slim.min.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js"></script>
+
+
+<script src="https://cdn.jsdelivr.net/gh/xtaodada/xtaodada.github.io@0.0.2/copy.js"></script>
+ <script src="/js/app.js?v=1603728391524"></script>
 
   
 
