@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on wangsHome</title>
-    <link>http://xxx.xxx/posts/</link>
+    <link>https://yuyemuamuamua.github.io/posts/</link>
     <description>Recent content in Posts on wangsHome</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 06 Jan 2023 14:53:03 +0800</lastBuildDate><atom:link href="http://xxx.xxx/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 06 Jan 2023 14:53:03 +0800</lastBuildDate><atom:link href="https://yuyemuamuamua.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Helloworld</title>
-      <link>http://xxx.xxx/posts/helloworld/</link>
+      <link>https://yuyemuamuamua.github.io/posts/helloworld/</link>
       <pubDate>Fri, 06 Jan 2023 14:53:03 +0800</pubDate>
       
-      <guid>http://xxx.xxx/posts/helloworld/</guid>
+      <guid>https://yuyemuamuamua.github.io/posts/helloworld/</guid>
       <description></description>
     </item>
     
     <item>
       <title>和自己对话2022</title>
-      <link>http://xxx.xxx/posts/talk-with-self-2022/</link>
+      <link>https://yuyemuamuamua.github.io/posts/talk-with-self-2022/</link>
       <pubDate>Fri, 31 Dec 2021 23:59:59 +0800</pubDate>
       
-      <guid>http://xxx.xxx/posts/talk-with-self-2022/</guid>
+      <guid>https://yuyemuamuamua.github.io/posts/talk-with-self-2022/</guid>
       <description>2021快过去了，这不知是个好消息还是坏消息。2021依旧在疫情的笼罩下，偶尔的爆发也给我们带来了一</description>
     </item>
     
