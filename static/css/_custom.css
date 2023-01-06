@@ -22,7 +22,7 @@
         0px 0px 0px 0px rgb(255, 255, 255),
         0px 0px 0px 0px rgba(0, 0, 0, 0) inset,
         0px 0px 0px 0px rgba(255, 255, 255, 0) inset;
-    text-shadow: 1px 1px 3px rgba(0, 0, 0, 0);
+    text-shadow: 0px 0px 0px rgba(0, 0, 0, 0);
 }
 .link {
     max-width: 220px;
