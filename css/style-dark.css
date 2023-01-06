@@ -145,19 +145,19 @@ p > code {
     text-shadow: 0 0 5px rgba(var(--primary-rgb), .8);
 }
 
-.follow {
-    box-shadow:
-        0px 0px 10px 0px rgba(var(--primary-rgb), .6);
-    border: 1px solid rgb(100, 100, 100);
-    text-shadow: -1px -1px 2px rgba(0, 0, 0, .2);
-}
-.follow:hover {
-    box-shadow:
-        1px 1px 2px 0px rgba(0, 0, 0, .2),
-        -1px -1px 1px 0px var(--bgc-1),
-        0px 2px 5px 2px rgba(0, 0, 0, .1) inset,
-        0px -1px 5px 1px rgba(255, 255, 255, 0) inset;
-}
+/* .follow { */
+    /* box-shadow: */
+        /* 0px 0px 10px 0px rgba(var(--primary-rgb), .6); */
+    /* border: 1px solid rgb(100, 100, 100); */
+    /* text-shadow: -1px -1px 2px rgba(0, 0, 0, .2); */
+/* } */
+/* .follow:hover { */
+    /* box-shadow: */
+        /* 1px 1px 2px 0px rgba(0, 0, 0, .2), */
+        /* -1px -1px 1px 0px var(--bgc-1), */
+        /* 0px 2px 5px 2px rgba(0, 0, 0, .1) inset, */
+        /* 0px -1px 5px 1px rgba(255, 255, 255, 0) inset; */
+/* } */
 .dong {
     background-color: var(--bgc-3);
     box-shadow: 0px 2px 4px 1px rgba(0, 0, 0, 0.3) inset,
