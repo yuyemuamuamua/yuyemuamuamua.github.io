@@ -9,10 +9,19 @@
     <lastBuildDate>Fri, 06 Jan 2023 14:53:03 +0800</lastBuildDate><atom:link href="https://yuyemuamuamua.github.io/categories/%E9%9A%8F%E6%83%B3/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Helloworld</title>
-      <link>https://yuyemuamuamua.github.io/posts/helloworld/</link>
+      <link>https://yuyemuamuamua.github.io/posts/02_helloworld/</link>
       <pubDate>Fri, 06 Jan 2023 14:53:03 +0800</pubDate>
       
-      <guid>https://yuyemuamuamua.github.io/posts/helloworld/</guid>
+      <guid>https://yuyemuamuamua.github.io/posts/02_helloworld/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>和自己对话2022</title>
+      <link>https://yuyemuamuamua.github.io/posts/01_talk_with_self_2022/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0800</pubDate>
+      
+      <guid>https://yuyemuamuamua.github.io/posts/01_talk_with_self_2022/</guid>
       <description></description>
     </item>
     

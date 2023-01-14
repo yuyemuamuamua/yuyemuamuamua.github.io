@@ -1020,8 +1020,8 @@ body::after {
 }
 .about-zuozhe {
     background-color: var(--bgc-2);
-    margin: 20px 20px 0 20px;
-    padding: 20px 20px 10px;
+    margin: 20px 20px 20px 20px;
+    padding: 20px 20px 20px;
     border-radius: 20px;
     box-shadow: 0px 1px 8px 5px var(--bs-1);
     border: 1px solid var(--bgc-1);
